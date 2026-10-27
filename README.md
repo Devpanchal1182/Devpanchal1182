@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="Animated banner: Mechanical Engineering x Sustainability x Python" width="100%"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/devpanchal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=780&lines=Mechanical+Design+Engineer+%7C+M.Sc.+Sustainability+Management;Circular+Economy+%26+Life+Cycle+Assessment;Learning+Python+for+Engineering+%26+Sustainability+Analytics;Building+tested%2C+transparent+data-driven+tools" alt="Typing animation" />
 </a>
 
@@ -114,17 +114,17 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0b1a20&ring=2dd4bf&fire=14b8a6&currStreakLabel=2dd4bf&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af&hide_border=true" alt="GitHub streak" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devpanchal&theme=dark&background=0b1a20&ring=2dd4bf&fire=14b8a6&currStreakLabel=2dd4bf&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af&hide_border=true" alt="GitHub streak" height="150"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0b1a20&color=2dd4bf&line=14b8a6&point=ffffff&area=true&area_color=14b8a6&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devpanchal&bg_color=0b1a20&color=2dd4bf&line=14b8a6&point=ffffff&area=true&area_color=14b8a6&hide_border=true" alt="Contribution graph" width="100%"/>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpanchal/devpanchal/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/devpanchal/devpanchal/output/github-snake.svg" width="100%"/>
 </picture>
 
 </div>
